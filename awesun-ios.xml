@@ -5,65 +5,70 @@
     <MASTER_PAD_EDITOR>Codex</MASTER_PAD_EDITOR>
     <MASTER_PAD_INFO>Portable Application Description for AweSun Remote Desktop.</MASTER_PAD_INFO>
   </MASTER_PAD_VERSION_INFO>
-  <Company_Info>
-    <Company_Name>AweRay PTE. LTD.</Company_Name>
-    <Country>Singapore</Country>
-    <Company_WebSite_URL>https://awesun.aweray.com/en</Company_WebSite_URL>
-    <Contact_Info>
-      <Author_First_Name>AweRay</Author_First_Name>
-      <Author_Last_Name>Team</Author_Last_Name>
-      <Author_Email>global@aweray.com</Author_Email>
-      <Contact_First_Name>AweRay</Contact_First_Name>
-      <Contact_Last_Name>Team</Contact_Last_Name>
-      <Contact_Email>global@aweray.com</Contact_Email>
-    </Contact_Info>
-  </Company_Info>
-  <Program_Info>
-    <Program_Name>AweSun Remote Control for iOS</Program_Name>
-    <Program_Version>15.5.5.55580</Program_Version>
-    <Program_Release_Month>06</Program_Release_Month>
-    <Program_Release_Day>22</Program_Release_Day>
-    <Program_Release_Year>2026</Program_Release_Year>
-    <Program_Cost_Dollars>0</Program_Cost_Dollars>
-    <Program_Cost_Other_Code>Freemium</Program_Cost_Other_Code>
-    <Program_Type>Freemium</Program_Type>
-    <Program_Release_Status>Major Update</Program_Release_Status>
-    <Program_Install_Support>App Store</Program_Install_Support>
-    <Program_OS_Support>iOS</Program_OS_Support>
-    <Program_Language>English</Program_Language>
-    <Program_Change_Info>What's New in v16.5 ecosystem: AI MCP workflow integration for system automation; upgraded remote desktop workflows; improved security encryption, remote tech support, unattended access, and connectivity stability across supported AweSun platforms.</Program_Change_Info>
-    <Program_Specific_Category>Network and Internet::Remote Computing</Program_Specific_Category>
-    <Program_Category_Class>Remote Desktop</Program_Category_Class>
-  </Program_Info>
-  <File_Info>
-    <Filename_Versioned>App Store</Filename_Versioned>
-    <Filename_Generic>AweSun Remote Control</Filename_Generic>
-    <File_Size_MB>88.7</File_Size_MB>
-  </File_Info>
-  <Application_URLs>
-    <Application_Info_URL>https://awesun.aweray.com/en</Application_Info_URL>
-    <Application_Order_URL>https://awesun.aweray.com/en/price</Application_Order_URL>
-    <Application_Support_URL>https://u.aweray.com/HrYbId?mc=en</Application_Support_URL>
-    <Application_Icon_URL>https://res.orayimg.com/awesun/1.0/assets/logo-icon.BonCcheN.png</Application_Icon_URL>
-    <Application_Screenshot_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/screenshots/awesun-remote-assist.png</Application_Screenshot_URL>
-    <Application_XML_File_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/awesun-ios.xml</Application_XML_File_URL>
-  </Application_URLs>
-  <Download_URLs>
-    <Primary_Download_URL>https://apps.apple.com/us/app/awesun-remote-control/id6756915446</Primary_Download_URL>
-  </Download_URLs>
-  <Privacy_URLs>
-    <Privacy_Policy_URL>https://service.aweray.com/en/question/39341.html</Privacy_Policy_URL>
-    <Terms_Of_Use_URL>https://service.aweray.com/en/question/39342.html</Terms_Of_Use_URL>
-    <Cookies_Policy_URL>https://service.aweray.com/en/question/39340.html</Cookies_Policy_URL>
-  </Privacy_URLs>
-  <Program_Descriptions>
-    <English>
-      <Keywords>remote desktop, remote access, iOS remote control, hybrid work, remote support, IT operations, file transfer, helpdesk, mobile remote desktop</Keywords>
-      <Char_Desc_45>Secure iOS remote control for office and IT.</Char_Desc_45>
-      <Char_Desc_80>Secure iOS remote control for office, tech support, and IT operations.</Char_Desc_80>
-      <Char_Desc_250>AweSun Remote Control for iOS lets users initiate secure remote desktop sessions from mobile devices for office work, remote tech support, IT operations, remote file workflows, and cross-platform access to Windows and macOS computers.</Char_Desc_250>
-      <Char_Desc_450>AweSun Remote Control for iOS is part of the AweSun cross-platform remote desktop ecosystem for Windows, macOS, iOS, and Android. It helps mobile users securely initiate remote access sessions, support remote computers, manage files, assist clients, and handle IT operations from anywhere with encrypted connections and a Freemium product model.</Char_Desc_450>
-      <Char_Desc_2000>AweSun Remote Control for iOS helps users initiate secure remote desktop sessions from an iPhone or iPad and connect to remote computers across the AweSun ecosystem. Designed for everyday office work, hybrid work, remote tech support, helpdesk workflows, and IT operations, it gives mobile users a practical way to access desktops, assist clients, transfer files, and troubleshoot systems while away from a desk. AweSun is built around secure remote access across Windows, macOS, iOS, and Android. It uses encrypted sessions, host-side permission control, and privacy-focused workflows to help protect confidential data during remote access. For productivity, AweSun supports unattended access, remote assistance, remote file workflows, and cross-device control. For IT teams, it helps reduce location barriers when supporting employees, clients, servers, and office computers. As part of the Freemium AweSun product line, the iOS app works with the broader desktop and mobile clients for flexible personal and business deployment scenarios.</Char_Desc_2000>
-    </English>
-  </Program_Descriptions>
+  <COMPANY_INFO>
+    <COMPANY_NAME>AweRay PTE. LTD.</COMPANY_NAME>
+    <ADDRESS_1/>
+    <ADDRESS_2/>
+    <CITY_TOWN/>
+    <STATE_PROVINCE/>
+    <ZIP_POSTAL_CODE/>
+    <COUNTRY>Singapore</COUNTRY>
+    <COMPANY_WEBSITE_URL>https://awesun.aweray.com/en</COMPANY_WEBSITE_URL>
+    <CONTACT_INFO>
+      <AUTHOR_FIRST_NAME>AweRay</AUTHOR_FIRST_NAME>
+      <AUTHOR_LAST_NAME>Team</AUTHOR_LAST_NAME>
+      <AUTHOR_EMAIL>global@aweray.com</AUTHOR_EMAIL>
+      <CONTACT_FIRST_NAME>AweRay</CONTACT_FIRST_NAME>
+      <CONTACT_LAST_NAME>Team</CONTACT_LAST_NAME>
+      <CONTACT_EMAIL>global@aweray.com</CONTACT_EMAIL>
+    </CONTACT_INFO>
+  </COMPANY_INFO>
+  <PROGRAM_INFO>
+    <PROGRAM_NAME>AweSun Remote Control for iOS</PROGRAM_NAME>
+    <PROGRAM_VERSION>15.5.5.55580</PROGRAM_VERSION>
+    <PROGRAM_RELEASE_MONTH>06</PROGRAM_RELEASE_MONTH>
+    <PROGRAM_RELEASE_DAY>22</PROGRAM_RELEASE_DAY>
+    <PROGRAM_RELEASE_YEAR>2026</PROGRAM_RELEASE_YEAR>
+    <PROGRAM_COST_DOLLARS>0</PROGRAM_COST_DOLLARS>
+    <PROGRAM_COST_OTHER_CODE>Freemium</PROGRAM_COST_OTHER_CODE>
+    <PROGRAM_TYPE>Freemium</PROGRAM_TYPE>
+    <PROGRAM_RELEASE_STATUS>Major Update</PROGRAM_RELEASE_STATUS>
+    <PROGRAM_INSTALL_SUPPORT>App Store</PROGRAM_INSTALL_SUPPORT>
+    <PROGRAM_OS_SUPPORT>iOS</PROGRAM_OS_SUPPORT>
+    <PROGRAM_LANGUAGE>English</PROGRAM_LANGUAGE>
+    <PROGRAM_CHANGE_INFO>What's New in v16.5 ecosystem: AI MCP workflow integration for system automation; upgraded remote desktop workflows; improved security encryption, remote tech support, unattended access, and connectivity stability across supported AweSun platforms.</PROGRAM_CHANGE_INFO>
+    <PROGRAM_SPECIFIC_CATEGORY>Network and Internet::Remote Computing</PROGRAM_SPECIFIC_CATEGORY>
+    <PROGRAM_CATEGORY_CLASS>Remote Desktop</PROGRAM_CATEGORY_CLASS>
+    <FILE_INFO>
+      <FILENAME_VERSIONED>App Store</FILENAME_VERSIONED>
+      <FILENAME_GENERIC>AweSun Remote Control</FILENAME_GENERIC>
+      <FILE_SIZE_K>90829</FILE_SIZE_K>
+    </FILE_INFO>
+  </PROGRAM_INFO>
+  <APPLICATION_URLS>
+    <APPLICATION_INFO_URL>https://awesun.aweray.com/en</APPLICATION_INFO_URL>
+    <APPLICATION_ORDER_URL>https://awesun.aweray.com/en/price</APPLICATION_ORDER_URL>
+    <APPLICATION_SUPPORT_URL>https://u.aweray.com/HrYbId?mc=en</APPLICATION_SUPPORT_URL>
+    <APPLICATION_ICON_URL>https://res.orayimg.com/awesun/1.0/assets/logo-icon.BonCcheN.png</APPLICATION_ICON_URL>
+    <APPLICATION_SCREENSHOT_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/screenshots/awesun-remote-assist.png</APPLICATION_SCREENSHOT_URL>
+    <APPLICATION_XML_FILE_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/awesun-ios.xml</APPLICATION_XML_FILE_URL>
+  </APPLICATION_URLS>
+  <DOWNLOAD_URLS>
+    <PRIMARY_DOWNLOAD_URL>https://apps.apple.com/us/app/awesun-remote-control/id6756915446</PRIMARY_DOWNLOAD_URL>
+  </DOWNLOAD_URLS>
+  <PRIVACY_URLS>
+    <PRIVACY_POLICY_URL>https://service.aweray.com/en/question/39341.html</PRIVACY_POLICY_URL>
+    <TERMS_OF_USE_URL>https://service.aweray.com/en/question/39342.html</TERMS_OF_USE_URL>
+    <COOKIES_POLICY_URL>https://service.aweray.com/en/question/39340.html</COOKIES_POLICY_URL>
+  </PRIVACY_URLS>
+  <PROGRAM_DESCRIPTIONS>
+    <ENGLISH>
+      <KEYWORDS>remote desktop, remote access, iOS remote control, hybrid work, remote support, IT operations, file transfer, helpdesk, mobile remote desktop</KEYWORDS>
+      <CHAR_DESC_45>Secure iOS remote control for office and IT.</CHAR_DESC_45>
+      <CHAR_DESC_80>Secure iOS remote control for office, tech support, and IT operations.</CHAR_DESC_80>
+      <CHAR_DESC_250>AweSun Remote Control for iOS lets users initiate secure remote desktop sessions from mobile devices for office work, remote tech support, IT operations, remote file workflows, and cross-platform access to Windows and macOS computers.</CHAR_DESC_250>
+      <CHAR_DESC_450>AweSun Remote Control for iOS is part of the AweSun cross-platform remote desktop ecosystem for Windows, macOS, iOS, and Android. It helps mobile users securely initiate remote access sessions, support remote computers, manage files, assist clients, and handle IT operations from anywhere with encrypted connections and a Freemium product model.</CHAR_DESC_450>
+      <CHAR_DESC_2000>AweSun Remote Control for iOS helps users initiate secure remote desktop sessions from an iPhone or iPad and connect to remote computers across the AweSun ecosystem. Designed for everyday office work, hybrid work, remote tech support, helpdesk workflows, and IT operations, it gives mobile users a practical way to access desktops, assist clients, transfer files, and troubleshoot systems while away from a desk. AweSun is built around secure remote access across Windows, macOS, iOS, and Android. It uses encrypted sessions, host-side permission control, and privacy-focused workflows to help protect confidential data during remote access. For productivity, AweSun supports unattended access, remote assistance, remote file workflows, and cross-device control. For IT teams, it helps reduce location barriers when supporting employees, clients, servers, and office computers. As part of the Freemium AweSun product line, the iOS app works with the broader desktop and mobile clients for flexible personal and business deployment scenarios.</CHAR_DESC_2000>
+    </ENGLISH>
+  </PROGRAM_DESCRIPTIONS>
 </XML_DIZ_INFO>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Codex</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description for AweSun Remote Desktop.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>AweRay PTE. LTD.</Company_Name>
+    <Address_1/>
+    <Address_2/>
+    <City_Town/>
+    <State_Province/>
+    <Zip_Postal_Code/>
+    <Country>Singapore</Country>
+    <Company_WebSite_URL>https://awesun.aweray.com/en</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>AweRay</Author_First_Name>
+      <Author_Last_Name>Team</Author_Last_Name>
+      <Author_Email>global@aweray.com</Author_Email>
+      <Contact_First_Name>AweRay</Contact_First_Name>
+      <Contact_Last_Name>Team</Contact_Last_Name>
+      <Contact_Email>global@aweray.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>AweSun Remote Desktop for Windows</Program_Name>
+    <Program_Version>16.5.1.30899</Program_Version>
+    <Program_Release_Month>06</Program_Release_Month>
+    <Program_Release_Day>22</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>Freemium</Program_Cost_Other_Code>
+    <Program_Type>Freemium</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Windows 64-bit; Windows 32-bit; Windows ARM</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>What's New in v16.5: Native macOS client support for Intel and Apple Silicon chips; AI MCP workflow integration for system automation; upgraded Game Mode supporting up to 144FPS and 4:4:4 lossless color streaming; enhanced RSA/AES encryption and optimized remote tech support workflows; improved unattended access, remote file transfer, and connectivity stability.</Program_Change_Info>
+    <Program_Specific_Category>Network and Internet::Remote Computing</Program_Specific_Category>
+    <Program_Category_Class>Remote Desktop</Program_Category_Class>
+  </Program_Info>
+  <File_Info>
+    <Filename_Versioned>AweSun_16.5.1.30899.exe</Filename_Versioned>
+    <Filename_Generic>AweSun.exe</Filename_Generic>
+    <File_Size_MB>158</File_Size_MB>
+  </File_Info>
+  <Application_URLs>
+    <Application_Info_URL>https://awesun.aweray.com/en</Application_Info_URL>
+    <Application_Order_URL>https://awesun.aweray.com/en/price</Application_Order_URL>
+    <Application_Support_URL>https://u.aweray.com/HrYbId?mc=en</Application_Support_URL>
+    <Application_Icon_URL>https://res.orayimg.com/awesun/1.0/assets/logo-icon.BonCcheN.png</Application_Icon_URL>
+    <Application_Screenshot_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/screenshots/awesun-device.png</Application_Screenshot_URL>
+    <Application_XML_File_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/awesun-windows.xml</Application_XML_File_URL>
+  </Application_URLs>
+  <Download_URLs>
+    <Primary_Download_URL>https://dl.oray.com/sl/windows/AweSun_16.5.1.30899.exe</Primary_Download_URL>
+    <Secondary_Download_URL>https://dw.oray.com/sl/windows/AweSun_16.0.1.24351.exe</Secondary_Download_URL>
+    <Additional_Download_URL_1>https://dl.oray.com/sl/windows/AweSun_16.0.1.24351_arm64.exe</Additional_Download_URL_1>
+  </Download_URLs>
+  <Privacy_URLs>
+    <Privacy_Policy_URL>https://service.aweray.com/en/question/39341.html</Privacy_Policy_URL>
+    <Terms_Of_Use_URL>https://service.aweray.com/en/question/39342.html</Terms_Of_Use_URL>
+    <Cookies_Policy_URL>https://service.aweray.com/en/question/39340.html</Cookies_Policy_URL>
+  </Privacy_URLs>
+  <Program_Descriptions>
+    <English>
+      <Keywords>remote desktop, remote access, hybrid work, 144fps remote gaming, remote control, Windows remote desktop, AI MCP, unattended access, remote support, IT operations, file transfer, helpdesk</Keywords>
+      <Char_Desc_45>Secure remote desktop for office and IT.</Char_Desc_45>
+      <Char_Desc_80>Secure 144FPS remote desktop for office, support, gaming, and IT operations.</Char_Desc_80>
+      <Char_Desc_250>Secure cross-platform remote desktop for Windows, macOS, iOS, and Android. Ideal for daily office work, unattended access, remote tech support, 144FPS remote gaming, IT operations, AI MCP automation, and remote file transfer.</Char_Desc_250>
+      <Char_Desc_450>AweSun Remote Desktop is a secure, fast, and cross-platform remote access tool for Windows, macOS, iOS, and Android. Optimized for everyday office work, remote tech support, remote gaming, and IT operations, it supports unattended access, remote file transfer, 144FPS Game Mode, 4:4:4 lossless color streaming, privacy protection, and AI MCP workflow integration for smarter system automation.</Char_Desc_450>
+      <Char_Desc_2000>AweSun Remote Desktop is a secure, high-performance, cross-platform remote access solution for Windows, macOS, iOS, and Android. It helps office workers, hybrid teams, helpdesk technicians, and IT administrators connect to desktops and mobile devices from anywhere, making remote work, remote assistance, troubleshooting, file transfer, and IT operations easier to manage. AweSun is designed for a practical Freemium experience, with a strong free tier for personal use and flexible deployment scenarios that reduce interruption risks during daily office work and critical support sessions. Security is built into the remote access workflow before, during, and after each session. AweSun uses 2048-bit RSA and 256-bit AES encryption, gives the controlled host authority over permissions, and supports privacy-focused features such as Privacy Screen masking and session visibility for confidential corporate data. For productivity, AweSun provides unattended access, cross-device Remote File Management, multi-screen control, RDP, CMD/SSH, and low-latency remote desktop performance. For IT teams, it supports remote assistance, server maintenance, diagnostic file transfer, and location-independent support workflows. For gaming and creative work, AweSun Game Mode supports up to 144FPS ultra-high refresh rates and 4:4:4 lossless color streaming for smoother AAA gaming, design review, CAD workflows, and pixel-sensitive visual tasks. AweSun also includes AI MCP workflow integration, allowing developers and advanced IT users to connect LLM-driven automation with remote desktop environments for routine system tasks and complex operations.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

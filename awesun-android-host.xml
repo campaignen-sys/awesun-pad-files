@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Codex</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description for AweSun Remote Desktop.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>AweRay PTE. LTD.</Company_Name>
+    <Country>Singapore</Country>
+    <Company_WebSite_URL>https://awesun.aweray.com/en</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>AweRay</Author_First_Name>
+      <Author_Last_Name>Team</Author_Last_Name>
+      <Author_Email>global@aweray.com</Author_Email>
+      <Contact_First_Name>AweRay</Contact_First_Name>
+      <Contact_Last_Name>Team</Contact_Last_Name>
+      <Contact_Email>global@aweray.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>AweSun Host for Android</Program_Name>
+    <Program_Version>6.6.5.76023</Program_Version>
+    <Program_Release_Month>12</Program_Release_Month>
+    <Program_Release_Day>17</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other_Code>Freemium</Program_Cost_Other_Code>
+    <Program_Type>Freemium</Program_Type>
+    <Program_Release_Status>Update</Program_Release_Status>
+    <Program_Install_Support>APK</Program_Install_Support>
+    <Program_OS_Support>Android</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Improved Android host-side remote control, unattended access, remote support workflows, file transfer, encrypted access, and connectivity stability for supported AweSun remote desktop environments.</Program_Change_Info>
+    <Program_Specific_Category>Network and Internet::Remote Computing</Program_Specific_Category>
+    <Program_Category_Class>Remote Desktop</Program_Category_Class>
+  </Program_Info>
+  <File_Info>
+    <Filename_Versioned>AwesunHost_6.6.5.76023.apk</Filename_Versioned>
+    <Filename_Generic>AwesunHost.apk</Filename_Generic>
+    <File_Size_MB>22.01</File_Size_MB>
+  </File_Info>
+  <Application_URLs>
+    <Application_Info_URL>https://awesun.aweray.com/en</Application_Info_URL>
+    <Application_Order_URL>https://awesun.aweray.com/en/price</Application_Order_URL>
+    <Application_Support_URL>https://u.aweray.com/HrYbId?mc=en</Application_Support_URL>
+    <Application_Icon_URL>https://res.orayimg.com/awesun/1.0/assets/logo-icon.BonCcheN.png</Application_Icon_URL>
+    <Application_Screenshot_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/screenshots/awesun-device.png</Application_Screenshot_URL>
+    <Application_XML_File_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/awesun-android-host.xml</Application_XML_File_URL>
+  </Application_URLs>
+  <Download_URLs>
+    <Primary_Download_URL>https://dl-apk.oray.com/sl/android/AwesunHost_6.6.5.76023.apk</Primary_Download_URL>
+  </Download_URLs>
+  <Privacy_URLs>
+    <Privacy_Policy_URL>https://service.aweray.com/en/question/39341.html</Privacy_Policy_URL>
+    <Terms_Of_Use_URL>https://service.aweray.com/en/question/39342.html</Terms_Of_Use_URL>
+    <Cookies_Policy_URL>https://service.aweray.com/en/question/39340.html</Cookies_Policy_URL>
+  </Privacy_URLs>
+  <Program_Descriptions>
+    <English>
+      <Keywords>Android host, remote desktop host, remote access, unattended access, remote support, IT operations, file transfer, helpdesk, Android remote control</Keywords>
+      <Char_Desc_45>Android host app for secure remote access.</Char_Desc_45>
+      <Char_Desc_80>Android host app for secure remote access, support, and IT operations.</Char_Desc_80>
+      <Char_Desc_250>AweSun Host for Android lets Android devices receive secure remote control sessions. It is designed for unattended access, remote tech support, file workflows, IT operations, and cross-platform support from AweSun control-side apps.</Char_Desc_250>
+      <Char_Desc_450>AweSun Host for Android is the host-side app for receiving secure remote control on Android devices. It works with the AweSun cross-platform remote desktop ecosystem to support unattended access, remote assistance, IT operations, encrypted sessions, file workflows, and flexible Freemium deployment for personal and business scenarios.</Char_Desc_450>
+      <Char_Desc_2000>AweSun Host for Android is the host-side app that allows Android devices to receive secure remote control sessions from AweSun control-side clients. It is designed for users and IT teams that need unattended access, mobile device support, remote assistance, helpdesk workflows, and cross-platform IT operations. As part of the AweSun remote desktop ecosystem, it works with Windows, macOS, iOS, and Android control-side apps to help users connect, troubleshoot, and manage devices from anywhere. AweSun focuses on secure remote access with encrypted sessions, host-side permission control, privacy-aware workflows, and stable connectivity. For productivity and support scenarios, AweSun Host for Android helps reduce location barriers when assisting employees, clients, and mobile device users. It supports practical Freemium deployment scenarios for personal use, remote tech support, and flexible business operations.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+</XML_DIZ_INFO>

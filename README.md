@@ -28,6 +28,11 @@ Hosted PAD XML URLs:
 - `https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/awesun-android-control.xml`
 - `https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/awesun-android-host.xml`
 
+Softpile-specific PAD XML URLs:
+
+- `https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/softpile-awesun-windows.xml`
+- `https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/softpile-awesun-macos.xml`
+
 Notes:
 
 - License type is set to `Freemium`.

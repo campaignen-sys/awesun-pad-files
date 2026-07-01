@@ -39,26 +39,29 @@
     <Program_Change_Info>What's New in v16.5: Native macOS client support for Intel and Apple Silicon chips; AI MCP workflow integration for system automation; upgraded Game Mode supporting up to 144FPS and 4:4:4 lossless color streaming; enhanced RSA/AES encryption and optimized remote tech support workflows; improved unattended access, remote file transfer, and connectivity stability.</Program_Change_Info>
     <Program_Specific_Category>Network and Internet::Remote Computing</Program_Specific_Category>
     <Program_Category_Class>Remote Desktop</Program_Category_Class>
+    <File_Info>
+      <File_Size_Bytes>165675008</File_Size_Bytes>
+      <Filename_Versioned>AweSun_16.5.1.30899.exe</Filename_Versioned>
+      <Filename_Generic>AweSun.exe</Filename_Generic>
+      <File_Size_MB>158</File_Size_MB>
+      <File_Size_K>161792</File_Size_K>
+    </File_Info>
   </Program_Info>
-  <File_Info>
-    <Filename_Versioned>AweSun_16.5.1.30899.exe</Filename_Versioned>
-    <Filename_Generic>AweSun.exe</Filename_Generic>
-    <File_Size_MB>158</File_Size_MB>
-    <File_Size_K>161792</File_Size_K>
-  </File_Info>
-  <Application_URLs>
-    <Application_Info_URL>https://awesun.aweray.com/en</Application_Info_URL>
-    <Application_Order_URL>https://awesun.aweray.com/en/price</Application_Order_URL>
-    <Application_Support_URL>https://u.aweray.com/HrYbId?mc=en</Application_Support_URL>
-    <Application_Icon_URL>https://res.orayimg.com/awesun/1.0/assets/logo-icon.BonCcheN.png</Application_Icon_URL>
-    <Application_Screenshot_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/screenshots/awesun-device.png</Application_Screenshot_URL>
-    <Application_XML_File_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/softpile-awesun-windows.xml</Application_XML_File_URL>
-  </Application_URLs>
-  <Download_URLs>
-    <Primary_Download_URL>https://dl.oray.com/sl/windows/AweSun_16.5.1.30899.exe</Primary_Download_URL>
-    <Secondary_Download_URL>https://dw.oray.com/sl/windows/AweSun_16.0.1.24351.exe</Secondary_Download_URL>
-    <Additional_Download_URL_1>https://dl.oray.com/sl/windows/AweSun_16.0.1.24351_arm64.exe</Additional_Download_URL_1>
-  </Download_URLs>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://awesun.aweray.com/en</Application_Info_URL>
+      <Application_Order_URL>https://awesun.aweray.com/en/price</Application_Order_URL>
+      <Application_Support_URL>https://u.aweray.com/HrYbId?mc=en</Application_Support_URL>
+      <Application_Icon_URL>https://res.orayimg.com/awesun/1.0/assets/logo-icon.BonCcheN.png</Application_Icon_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/screenshots/awesun-device.png</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://raw.githubusercontent.com/campaignen-sys/awesun-pad-files/main/softpile-awesun-windows.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://dl.oray.com/sl/windows/AweSun_16.5.1.30899.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://dw.oray.com/sl/windows/AweSun_16.0.1.24351.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1>https://dl.oray.com/sl/windows/AweSun_16.0.1.24351_arm64.exe</Additional_Download_URL_1>
+    </Download_URLs>
+  </Web_Info>
   <Privacy_URLs>
     <Privacy_Policy_URL>https://service.aweray.com/en/question/39341.html</Privacy_Policy_URL>
     <Terms_Of_Use_URL>https://service.aweray.com/en/question/39342.html</Terms_Of_Use_URL>
